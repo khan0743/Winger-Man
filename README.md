@@ -1,2 +1,4 @@
 # Winger-Man
-A game which allows you to fly in a Wing Suit
+Wing Suit Controller script.
+
+This project was a part of an Assignment of the Gaming Technology Course provided under B.Tech in CSE at VIT Bhopal University.
